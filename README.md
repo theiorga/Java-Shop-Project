@@ -1,5 +1,7 @@
 # Java-Shop-Project
-This project models an item shop mainly for tools.
+Summary:
+This project models an item shop for tools & work accessories.
+
 It can read tool data from the text files "tool_data_[123].txt" using its Shop Class, and it can store it.
 
 There are different Subclasses for different tools with different features.
